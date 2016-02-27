@@ -1,3 +1,3 @@
 # files
 
-A simple Spring MVC files sharing service
+A simple Spring MVC file sharing service
